@@ -1,6 +1,8 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 18.05.25 
+### Name: K S Vinay Suhirthan
+### Register Number: 212224230305
 
 ## AIM:
 
@@ -56,8 +58,7 @@
 <img width="1128" height="735" alt="image" src="https://github.com/user-attachments/assets/dda267df-d723-4c20-afaf-d05b5c105639" />
 
 
-### Name: Keerthivasan K S
-### Register Number: 212224230120
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
